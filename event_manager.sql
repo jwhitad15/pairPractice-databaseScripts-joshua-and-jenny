@@ -1,3 +1,5 @@
+-- syntax is correct, but tables were created under a different schema in SQL. 
+
 START TRANSACTION;
 
 DROP TABLE IF EXISTS event_manager, bookings, sales, partners;
